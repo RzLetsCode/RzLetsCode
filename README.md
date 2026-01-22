@@ -1,7 +1,6 @@
 # Hi 👋, I'm Rajeev
 
-AI Architect from Pune, India  
-Building **enterprise-grade Generative AI & Agentic AI** solutions.
+AI Architect, Building **enterprise-grade Generative AI & Agentic AI** solutions.
 
 - 🔭 Currently working on: Production-ready LLM platforms, RAG systems, and agentic workflows for enterprises.  
 - 🧠 Experience: 12+ years in AI, Data Science, and Data Engineering across healthcare, insurance, and marketing domains. 
