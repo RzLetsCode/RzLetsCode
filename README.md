@@ -30,17 +30,6 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 ---
 
-### My Current Stack
-
-- [Python](https://www.python.org/): Primary language for AI, Data, and backend services.  
-- [PySpark](https://spark.apache.org/docs/latest/api/python/): Large-scale data processing and feature engineering.  
-- [Snowflake](https://www.snowflake.com/): Cloud data platform for governed analytics and RAG backends.  
-- [Azure](https://azure.microsoft.com/): Cloud infrastructure, Azure OpenAI, and managed services.  
-- [Databricks](https://www.databricks.com/): Lakehouse, ML pipelines, and collaborative notebooks.  
-- [Kafka](https://kafka.apache.org/): Event streaming and real-time data pipelines.  
-- [FastAPI](https://fastapi.tiangolo.com/): High-performance APIs for AI microservices.  
-
----
 
 ### My Favorite AI Systems
 
