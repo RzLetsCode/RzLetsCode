@@ -1,77 +1,74 @@
 # Hi 👋, I'm Rajeev
 
-AI Architect, Building **enterprise-grade Generative AI & Agentic AI** solutions.
+Senior Data Scientist & AI Architect  
+Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
 
-- 🔭 Currently working on: Production-ready LLM platforms, RAG systems, and agentic workflows for enterprises.  
-- 🧠 Experience: 12+ years in AI, Data Science, and Data Engineering across healthcare, insurance, and marketing domains. 
-- 🌱 Learning more about: Model Context Protocol (MCP), multi-agent orchestration, and robust RAG evaluation.  
-- 📫 Reach me: https://www.linkedin.com/in/rajeev-raj-singh-044496357/
-- 🌐 Content: Code2CareerAI – helping engineers move from **code to career** with practical AI guidance.  
+[![Profile views](https://komarev.com/ghpvc/?username=RzLetsCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
 
----
-
-## What I Do
-
-- Design **end-to-end GenAI platforms**: data ingestion, retrieval, orchestration, evaluation, and continuous refinement.  
-- Build **RAG and agentic workflows** using LLMs, tools, and external system integrations.  
-- Architect **scalable data pipelines** and ML solutions with strong MLOps and observability practices.  
+🚀 Free AI & Career Content: [Code2CareerAI](Coming-soon)  
+👨‍💻 More about me on: [LinkedIn](https://www.linkedin.com/in/rajeev-raj-singh-044496357/)  
+📺 Deep-dive tutorials on my: [YouTube channel](https://www.youtube.com/@Code2Career_AI)
 
 ---
 
-## Current Focus Areas
+### Blog posts
 
-- 🧱 Enterprise LLM architecture desinging.  
-- 🕸️ Agentic AI & MCP-based systems for compliance, knowledge workflows, and automation.   
-- 🔍 RAG evaluation, retrieval optimization, and guardrails for safe enterprise deployments. 
-
----
-
-## Selected Projects
-
-- **Enterprise LLM Platform on Postgress & LangGraph**  
-  Orchestrated an LLM architecture using Snowflake for governed data, LangGraph for workflow orchestration, and a vector store for semantic retrieval; integrated with Azure-hosted LLMs and enterprise APIs. 
-
-- **MCP & Agentic Compliance Assistant**  
-  Designed an MCP-driven agent framework to connect LLMs securely to internal systems, enabling auditable workflows for policy checks, document analysis, and automated actions.  
-
-- **Automated Brochure Generator**  
-  Built a pipeline that takes a company URL, scrapes key information with Python & BeautifulSoup, and generates concise marketing brochures using LLMs. 
-
-- **Code2CareerAI**  
-  Content and tools helping engineers prepare for AI/ML roles, portfolio building, and practical GenAI adoption in real-world projects.  
-
-*(Update each bullet with links to your public repos once you push them.)*
+- [Designing an Enterprise RAG Architecture on Snowflake](<blog-link-1>)  
+- [Building Agentic Workflows with LangGraph and Azure OpenAI](<blog-link-2>)  
+- [Productionizing LLM Apps: Observability, Guardrails, and MLOps](<blog-link-3>)  
+- [From Data Pipelines to GenAI Platforms: A Practical Guide](<blog-link-4>)  
+- [MCP in Action: Connecting LLMs Safely to Enterprise Systems](<blog-link-5>)  
 
 ---
 
-## Tech Stack
+### Connect With Me
 
-**Languages & Core**  
-`Python` · `SQL` · `PySpark` ·  
-
-**AI / ML / GenAI**  
-`LLMs` · `RAG` · `LangChain` / `LangGraph` · `Vector Databases` · `MCP` · `Prompt Engineering` · `Model Evaluation`  
-
-**Data & Cloud**  
-`Snowflake` · `Azure` · `Databricks` · `Kafka` · `Hive` · `HBase` · `Spark`  
-
-**MLOps & Tooling**  
-`GitHub` · `CI/CD` · `APIs` · `Docker` · `Monitoring & Observability`  
+- [X (Twitter)](NA)  
+- [LinkedIn](https://www.linkedin.com/in/rajeev-raj-singh-044496357/)  
+- [YouTube](https://www.youtube.com/@Code2Career_AI)  
+- [Personal Website / Blog](Coming-Soon)  
 
 ---
 
-## How I Can Help
+### My Current Stack
 
-- Advisory on **enterprise GenAI & RAG architecture**.   
-- Designing **agentic AI systems** integrated with existing data platforms and APIs. 
-- Helping teams move from **POC to production** with robust evaluation, safety, and governance.   
+- [Python](https://www.python.org/): Primary language for AI, Data, and backend services.  
+- [PySpark](https://spark.apache.org/docs/latest/api/python/): Large-scale data processing and feature engineering.  
+- [Snowflake](https://www.snowflake.com/): Cloud data platform for governed analytics and RAG backends.  
+- [Azure](https://azure.microsoft.com/): Cloud infrastructure, Azure OpenAI, and managed services.  
+- [Databricks](https://www.databricks.com/): Lakehouse, ML pipelines, and collaborative notebooks.  
+- [Kafka](https://kafka.apache.org/): Event streaming and real-time data pipelines.  
+- [FastAPI](https://fastapi.tiangolo.com/): High-performance APIs for AI microservices.  
 
 ---
 
-## Connect
+### My Favorite AI Systems
 
-- 💼 LinkedIn:  https://www.linkedin.com/in/rajeev-raj-singh-044496357/ 
-- 🧵 X (Twitter): `NA`  
-- 📺 YouTube / Code2CareerAI: https://www.youtube.com/@Code2Career_AI 
+- [LangGraph](https://www.langchain.com/langgraph): Graph-based agents for complex multi-step workflows.  
+- [LangSmith](https://www.langchain.com/langsmith): Observability and evaluation for LLM applications.  
+- [LangChain](https://www.langchain.com/): Toolkit for building LLM-powered applications.  
+- [LlamaIndex](https://www.llamaindex.ai/): Data framework for LLMs and RAG-style systems.  
+- [CrewAI](https://www.crewai.com/): High-level multi-agent orchestration.  
+- [Unstructured](https://unstructured.io/): Fine-grained ETL for documents.  
+- [Pinecone](https://www.pinecone.io/): Managed vector database for semantic search and RAG.  
+- [ElevenLabs](https://elevenlabs.io/): High-quality AI voice generation.  
 
-Always open to collaborating on impactful GenAI, RAG, and agentic AI projects.
+---
+
+### My Tools (& Resources)
+
+- [Perplexity](https://www.perplexity.ai/): Daily driver for research, coding help, and AI browsing.  
+- [Visual Studio Code](https://code.visualstudio.com/): Main IDE for Python, data, and cloud development.  
+- [GitHub Copilot](https://github.com/features/copilot): Coding assistant for faster experimentation.  
+- [Weights & Biases](https://wandb.ai/): Experiment tracking and model monitoring.  
+- [Notion](https://www.notion.so/): Documentation, architecture notes, and project planning.  
+
+---
+
+### A bit more about me
+
+- 🧠 12+ years across AI, ML, and data engineering, from classic predictive models to modern GenAI platforms.  
+- 🏥 Deep experience in healthcare and insurance data, risk modeling, and AI workflows.  
+- 🎯 Passionate about mentoring, content creation, and helping engineers move from **code to career**.  
+
+If you’re working on something in **GenAI, RAG, MCP, or multi-agent systems**, feel free to reach out and say hi!
