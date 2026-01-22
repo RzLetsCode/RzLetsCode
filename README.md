@@ -1,47 +1,45 @@
-# rajeev_raj_singh
+# Hi 👋, I'm Rajeev
 
-# Hi 👋, I'm Rajesh
-
-Senior Data Scientist & AI Architect from Pune, India  
+AI Architect from Pune, India  
 Building **enterprise-grade Generative AI & Agentic AI** solutions.
 
-- 🔭 Currently working on: Production-ready LLM platforms, RAG systems, and agentic workflows for enterprises. [memory:6][memory:8]  
-- 🧠 Experience: 12+ years in AI, Data Science, and Data Engineering across healthcare, insurance, and marketing domains. [memory:6][memory:12]  
-- 🌱 Learning more about: Model Context Protocol (MCP), multi-agent orchestration, and robust RAG evaluation. [memory:9][memory:8]  
-- 📫 Reach me: `<your-email-or-linkedin>`  
-- 🌐 Content: Code2CareerAI – helping engineers move from **code to career** with practical AI guidance. [memory:10]  
+- 🔭 Currently working on: Production-ready LLM platforms, RAG systems, and agentic workflows for enterprises.  
+- 🧠 Experience: 12+ years in AI, Data Science, and Data Engineering across healthcare, insurance, and marketing domains. 
+- 🌱 Learning more about: Model Context Protocol (MCP), multi-agent orchestration, and robust RAG evaluation.  
+- 📫 Reach me: https://www.linkedin.com/in/rajeev-raj-singh-044496357/
+- 🌐 Content: Code2CareerAI – helping engineers move from **code to career** with practical AI guidance.  
 
 ---
 
 ## What I Do
 
-- Design **end-to-end GenAI platforms**: data ingestion, retrieval, orchestration, evaluation, and continuous refinement. [memory:5][memory:8]  
-- Build **RAG and agentic workflows** using LLMs, tools, and external system integrations. [memory:5][memory:8]  
-- Architect **scalable data pipelines** and ML solutions with strong MLOps and observability practices. [memory:6]  
+- Design **end-to-end GenAI platforms**: data ingestion, retrieval, orchestration, evaluation, and continuous refinement.  
+- Build **RAG and agentic workflows** using LLMs, tools, and external system integrations.  
+- Architect **scalable data pipelines** and ML solutions with strong MLOps and observability practices.  
 
 ---
 
 ## Current Focus Areas
 
-- 🧱 Enterprise LLM architecture with Snowflake, vector databases, and tool-calling agents. [memory:8][memory:12]  
-- 🕸️ Agentic AI & MCP-based systems for compliance, knowledge workflows, and automation. [memory:8][memory:9]  
-- 🔍 RAG evaluation, retrieval optimization, and guardrails for safe enterprise deployments. [memory:8]  
+- 🧱 Enterprise LLM architecture desinging.  
+- 🕸️ Agentic AI & MCP-based systems for compliance, knowledge workflows, and automation.   
+- 🔍 RAG evaluation, retrieval optimization, and guardrails for safe enterprise deployments. 
 
 ---
 
 ## Selected Projects
 
-- **Enterprise LLM Platform on Snowflake & LangGraph**  
-  Orchestrated an LLM architecture using Snowflake for governed data, LangGraph for workflow orchestration, and a vector store for semantic retrieval; integrated with Azure-hosted LLMs and enterprise APIs. [memory:8][memory:12]  
+- **Enterprise LLM Platform on Postgress & LangGraph**  
+  Orchestrated an LLM architecture using Snowflake for governed data, LangGraph for workflow orchestration, and a vector store for semantic retrieval; integrated with Azure-hosted LLMs and enterprise APIs. 
 
 - **MCP & Agentic Compliance Assistant**  
-  Designed an MCP-driven agent framework to connect LLMs securely to internal systems, enabling auditable workflows for policy checks, document analysis, and automated actions. [memory:8][memory:9]  
+  Designed an MCP-driven agent framework to connect LLMs securely to internal systems, enabling auditable workflows for policy checks, document analysis, and automated actions.  
 
 - **Automated Brochure Generator**  
-  Built a pipeline that takes a company URL, scrapes key information with Python & BeautifulSoup, and generates concise marketing brochures using LLMs. [memory:11]  
+  Built a pipeline that takes a company URL, scrapes key information with Python & BeautifulSoup, and generates concise marketing brochures using LLMs. 
 
 - **Code2CareerAI**  
-  Content and tools helping engineers prepare for AI/ML roles, portfolio building, and practical GenAI adoption in real-world projects. [memory:10]  
+  Content and tools helping engineers prepare for AI/ML roles, portfolio building, and practical GenAI adoption in real-world projects.  
 
 *(Update each bullet with links to your public repos once you push them.)*
 
@@ -50,13 +48,13 @@ Building **enterprise-grade Generative AI & Agentic AI** solutions.
 ## Tech Stack
 
 **Languages & Core**  
-`Python` · `SQL` · `PySpark` · `Java` · `C#` [memory:6]
+`Python` · `SQL` · `PySpark` ·  
 
 **AI / ML / GenAI**  
-`LLMs` · `RAG` · `LangChain` / `LangGraph` · `Vector Databases` · `MCP` · `Prompt Engineering` · `Model Evaluation` [memory:5][memory:8][memory:9]
+`LLMs` · `RAG` · `LangChain` / `LangGraph` · `Vector Databases` · `MCP` · `Prompt Engineering` · `Model Evaluation`  
 
 **Data & Cloud**  
-`Snowflake` · `Azure` · `Databricks` · `Kafka` · `Hive` · `HBase` · `Spark` [memory:8][memory:12]
+`Snowflake` · `Azure` · `Databricks` · `Kafka` · `Hive` · `HBase` · `Spark`  
 
 **MLOps & Tooling**  
 `GitHub` · `CI/CD` · `APIs` · `Docker` · `Monitoring & Observability`  
@@ -65,16 +63,16 @@ Building **enterprise-grade Generative AI & Agentic AI** solutions.
 
 ## How I Can Help
 
-- Advisory on **enterprise GenAI & RAG architecture**. [memory:8]  
-- Designing **agentic AI systems** integrated with existing data platforms and APIs. [memory:5][memory:8]  
-- Helping teams move from **POC to production** with robust evaluation, safety, and governance. [memory:5][memory:12]  
+- Advisory on **enterprise GenAI & RAG architecture**.   
+- Designing **agentic AI systems** integrated with existing data platforms and APIs. 
+- Helping teams move from **POC to production** with robust evaluation, safety, and governance.   
 
 ---
 
 ## Connect
 
-- 💼 LinkedIn: `<your-LinkedIn-url>`  
-- 🧵 X (Twitter): `<your-X-handle>`  
-- 📺 YouTube / Code2CareerAI: `<your-channel-link>`  
+- 💼 LinkedIn: `[Rajeev-Raj-Singh](https://www.linkedin.com/in/rajeev-raj-singh-044496357/)`  
+- 🧵 X (Twitter): `NA`  
+- 📺 YouTube / Code2CareerAI: `[Code2career_ai](https://www.youtube.com/@Code2Career_AI)`  
 
 Always open to collaborating on impactful GenAI, RAG, and agentic AI projects.
