@@ -70,8 +70,8 @@ AI Architect, Building **enterprise-grade Generative AI & Agentic AI** solutions
 
 ## Connect
 
-- 💼 LinkedIn: `https://www.linkedin.com/in/rajeev-raj-singh-044496357/`  
+- 💼 LinkedIn:  https://www.linkedin.com/in/rajeev-raj-singh-044496357/ 
 - 🧵 X (Twitter): `NA`  
-- 📺 YouTube / Code2CareerAI: `https://www.youtube.com/@Code2Career_AI`  
+- 📺 YouTube / Code2CareerAI: https://www.youtube.com/@Code2Career_AI 
 
 Always open to collaborating on impactful GenAI, RAG, and agentic AI projects.
