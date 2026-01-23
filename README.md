@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rajeev
+# Hi 👋, I'm Rajesh
 
 Senior Data Scientist & AI Architect  
 Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
