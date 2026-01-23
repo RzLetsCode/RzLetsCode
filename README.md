@@ -5,7 +5,7 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 [![Profile views](https://komarev.com/ghpvc/?username=RzLetsCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
 
-🚀 Free AI & Career Content: [Code2CareerAI](Coming-soon)  
+🚀 Free AI & Career Content: [Code2CareerAI](https://code2careerai.hashnode.dev/page/free-resources)  
 👨‍💻 More about me on: [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
 📺 Deep-dive tutorials on my: [YouTube channel](https://www.youtube.com/@Code2Career_AI)
 
