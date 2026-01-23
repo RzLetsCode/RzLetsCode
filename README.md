@@ -14,7 +14,7 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 ### Blog posts
 
 - [Designing an Enterprise RAG Architecture on Snowflake](<blog-link-1>)  
-- [Building Agentic Workflows with LangGraph and Azure OpenAI](<blog-link-2>)  
+- [Building Agentic Workflows with LangGraph and Azure OpenAI](https://code2careerai.hashnode.dev/from-chains-to-brains-building-agentic-workflows-with-langgraph-and-azure-openai?showSharer=true)  
 - [Productionizing LLM Apps: Observability, Guardrails, and MLOps](<blog-link-3>)  
 - [From Data Pipelines to GenAI Platforms: A Practical Guide](https://code2careerai.hashnode.dev/from-data-pipelines-to-genai-platforms-a-practical-guide-to-the-evolution?showSharer=true)  
 - [MCP in Action: Connecting LLMs Safely to Enterprise Systems](<blog-link-5>)  
