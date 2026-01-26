@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajesh
 
-Senior Data Scientist & AI Architect  
+AI Architect  
 Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
 
 [![Profile views](https://komarev.com/ghpvc/?username=RzLetsCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
