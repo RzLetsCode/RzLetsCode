@@ -24,20 +24,20 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 ### Connect With Me
 
 <p align="left">
-  <a href="https://x.com/Code2Career_AI" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white" alt="X" height="32" />
+  <a href="https://x.com/Code2caree86706" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" height="32" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="32" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" height="32" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=flat&logo=firefox-browser&logoColor=white" alt="Website" height="32" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Personal Portfolio" height="32" />
   </a>
 </p>
 
