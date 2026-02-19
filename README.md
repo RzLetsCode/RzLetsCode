@@ -46,10 +46,10 @@ Visit My Portfolio....   <a href="https://rzletscode.github.io/portfolio-main/" 
 <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="LlamaIndex" /></a>
 <a href="https://www.crewai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=crewai" width="40" height="40" alt="CrewAI" /></a>
 <a href="https://unstructured.io/" target="_blank"><img src="https://img.icons8.com/color/48/unstructured" width="40" height="40" alt="Unstructured" /></a>
- 
+<a href="https://elevenlabs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=elevenlabs" width="40" height="40" alt="ElevenLabs" /></a> 
 <a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pinecone" width="40" height="40" alt="Pinecone" /></a>
  
-<a href="https://elevenlabs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=elevenlabs" width="40" height="40" alt="ElevenLabs" /></a>
+
 ---
 
 ## 🛠️ Dev Toolkit
