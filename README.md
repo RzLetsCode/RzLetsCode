@@ -25,19 +25,19 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 <p align="left">
   <a href="https://x.com/Code2Career_AI" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF/000000" alt="X" height="32" />
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=x&logoColor=white" alt="X" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="32" width="32" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Code2Career_AI" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000/FFFFFF" alt="YouTube" height="32" />
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://rzletscode.github.io/portfolio-main/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139/FFFFFF" alt="Website" height="32" />
+    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=flat&logo=firefox-browser&logoColor=white" alt="Website" height="32" />
   </a>
 </p>
 
