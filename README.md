@@ -29,7 +29,7 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="32" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="32" width="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@Code2Career_AI" target="_blank">
