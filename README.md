@@ -24,13 +24,21 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 ### Connect With Me
 
 <p align="left">
-  <a href="https://x.com/Code2Career_AI" target="_blank"><img src="https://cdn.simpleicons.org/x/FFFFFF/000000" width="35" /></a>
+  <a href="https://x.com/Code2Career_AI" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/x/000000/FFFFFF" alt="X" height="32" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" /></a>
+  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="32" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="35" /></a>
+  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="YouTube" height="32" />
+  </a>
   &nbsp;&nbsp;
-  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" width="35" /></a>
+  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" alt="Website" height="32" />
+  </a>
 </p>
 
 
