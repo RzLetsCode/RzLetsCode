@@ -21,11 +21,11 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 ---
 
-### Connect With Me
+## 🤝 Let's Connect
 
 <a href="https://x.com/Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" /></a>
 <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/@Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@Code2Career_AI" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YouTube" /></a>alt="YouTube" /></a>
 <a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>
 
 
@@ -33,19 +33,19 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 </p>
 
 
-### My Favorite AI Systems
+## 🤖 AI Tech Stack
 
 <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="LangGraph" /></a>
 <a href="https://www.langchain.com/langsmith" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="LangSmith" /></a>
 <a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="LangChain" /></a>
 <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="LlamaIndex" /></a>
 <a href="https://www.crewai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="CrewAI" /></a>
-<a href="https://unstructured.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Unstructured" /></a>
+<a href="https://unstructured.io/" target="_blank"><img src="https://img.icons8.com/color/48/json.png" width="40" height="40" alt="Unstructured" /></a>/></a>
 <a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="Pinecone" /></a>
 <a href="https://elevenlabs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="ElevenLabs" /></a>
 ---
 
-### My Tools (& Resources)
+## 🛠️ Dev Toolkit
 
 <a href="https://www.perplexity.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Perplexity" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
