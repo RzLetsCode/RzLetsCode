@@ -23,25 +23,50 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 ### Connect With Me
 
-- [X (Twitter)](NA)  
-- [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
-- [YouTube](https://www.youtube.com/@Code2Career_AI)  
-- [Personal Website / Blog](https://rzletscode.github.io/portfolio-main/)  
-
----
+<p align="left">
+  <a href="https://x.com/Code2Career_AI" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF/000000" alt="X" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/FFFFFF" alt="LinkedIn" height="32" />
+  </a>
+  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000/FFFFFF" alt="YouTube" height="32" />
+  </a>
+  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank">
+    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139/FFFFFF" alt="Website" height="32" />
+  </a>
+</p>
 
 
 ### My Favorite AI Systems
 
-- [LangGraph](https://www.langchain.com/langgraph): Graph-based agents for complex multi-step workflows.  
-- [LangSmith](https://www.langchain.com/langsmith): Observability and evaluation for LLM applications.  
-- [LangChain](https://www.langchain.com/): Toolkit for building LLM-powered applications.  
-- [LlamaIndex](https://www.llamaindex.ai/): Data framework for LLMs and RAG-style systems.  
-- [CrewAI](https://www.crewai.com/): High-level multi-agent orchestration.  
-- [Unstructured](https://unstructured.io/): Fine-grained ETL for documents.  
-- [Pinecone](https://www.pinecone.io/): Managed vector database for semantic search and RAG.  
-- [ElevenLabs](https://elevenlabs.io/): High-quality AI voice generation.  
-
+<p align="left">
+  <a href="https://www.langchain.com/langgraph" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain/5C2D91/FFFFFF" alt="LangGraph" height="32" />
+  </a>
+  <a href="https://www.langchain.com/langsmith" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain/000000/FFFFFF" alt="LangSmith" height="32" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain/03C75A/000000" alt="LangChain" height="32" />
+  </a>
+  <a href="https://www.llamaindex.ai/" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFCC4D/000000" alt="LlamaIndex" height="32" />
+  </a>
+  <a href="https://www.crewai.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python/3776AB/FFFFFF" alt="CrewAI" height="32" />
+  </a>
+  <a href="https://unstructured.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/filetypejson/000000/FFFFFF" alt="Unstructured" height="32" />
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pinecone/1E90FF/FFFFFF" alt="Pinecone" height="32" />
+  </a>
+  <a href="https://elevenlabs.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/audacity/1471E8/FFFFFF" alt="ElevenLabs" height="32" />
+  </a>
+</p>
 ---
 
 ### My Tools (& Resources)
