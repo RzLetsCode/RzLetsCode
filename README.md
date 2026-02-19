@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rajesh  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>
+# Hi 👋, I'm Rajesh  
 
 AI Architect  
 Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
