@@ -26,7 +26,7 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 - [X (Twitter)](NA)  
 - [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
 - [YouTube](https://www.youtube.com/@Code2Career_AI)  
-- [Personal Website / Blog](Coming-Soon)  
+- [Personal Website / Blog](https://rzletscode.github.io/portfolio-main/)  
 
 ---
 
