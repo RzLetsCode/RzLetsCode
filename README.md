@@ -3,7 +3,7 @@
 AI Architect  
 Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
 
-[Portfolio](<a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>)
+[Portfolio]....   <a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=RzLetsCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
 
