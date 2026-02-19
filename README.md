@@ -39,13 +39,43 @@ Visit My Portfolio....   <a href="https://rzletscode.github.io/portfolio-main/" 
 
 ## 🤖 AI Tech Stack
 
-<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://skillicons.dev/icons?i=langgraph" width="40" height="40" alt="LangGraph" /></a>
+<!-- <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://skillicons.dev/icons?i=langgraph" width="40" height="40" alt="LangGraph" /></a>
  
 <a href="https://www.langchain.com/langsmith" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="LangSmith" /></a>
 <a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="LangChain" /></a>
 <a href="https://www.llamaindex.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="LlamaIndex" /></a>
 <a href="https://www.crewai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=crewai" width="40" height="40" alt="CrewAI" /></a>
-<a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pinecone" width="40" height="40" alt="Pinecone" /></a>
+<a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pinecone" width="40" height="40" alt="Pinecone" /></a> -->
+
+<p align="left">
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" />
+  </a>
+  &nbsp;
+  <a href="https://www.langchain.com/langsmith" target="_blank">
+    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangSmith" />
+  </a>
+  &nbsp;
+  <a href="https://www.llamaindex.ai/" target="_blank">
+    <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=llamaindex&logoColor=white" height="40" alt="LlamaIndex" />
+  </a>
+  &nbsp;
+  <a href="https://www.crewai.com/" target="_blank">
+    <img src="https://img.shields.io/badge/CrewAI-FF4F00?style=flat&logo=robot&logoColor=white" height="40" alt="CrewAI" />
+  </a>
+  &nbsp;
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://cdn.simpleicons.org/pinecone/000000/FFFFFF" width="40" height="40" alt="Pinecone" />
+  </a>
+  &nbsp;
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openai/000000/FFFFFF" width="40" height="40" alt="OpenAI" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" />
+  </a>
+</p>
  
 
 ---
