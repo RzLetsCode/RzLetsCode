@@ -23,62 +23,35 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 ### Connect With Me
 
-<p align="left">
-  <a href="https://x.com/Code2caree86706" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF7139.svg?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Personal Portfolio" height="32" />
+<a href="https://x.com/Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" /></a>
+<a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" width="40" height="40" alt="YouTube" /></a>
+<a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>
+
+
   </a>
 </p>
 
 
 ### My Favorite AI Systems
 
-<p align="left">
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/5C2D91/FFFFFF" alt="LangGraph" height="32" />
-  </a>
-  <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/000000/FFFFFF" alt="LangSmith" height="32" />
-  </a>
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/03C75A/000000" alt="LangChain" height="32" />
-  </a>
-  <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFCC4D/000000" alt="LlamaIndex" height="32" />
-  </a>
-  <a href="https://www.crewai.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/python/3776AB/FFFFFF" alt="CrewAI" height="32" />
-  </a>
-  <a href="https://unstructured.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/filetypejson/000000/FFFFFF" alt="Unstructured" height="32" />
-  </a>
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pinecone/1E90FF/FFFFFF" alt="Pinecone" height="32" />
-  </a>
-  <a href="https://elevenlabs.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/audacity/1471E8/FFFFFF" alt="ElevenLabs" height="32" />
-  </a>
-</p>
+<a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="LangGraph" /></a>
+<a href="https://www.langchain.com/langsmith" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="LangSmith" /></a>
+<a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="LangChain" /></a>
+<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="LlamaIndex" /></a>
+<a href="https://www.crewai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="CrewAI" /></a>
+<a href="https://unstructured.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" width="40" height="40" alt="Unstructured" /></a>
+<a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="Pinecone" /></a>
+<a href="https://elevenlabs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="ElevenLabs" /></a>
 ---
 
 ### My Tools (& Resources)
 
-- [Perplexity](https://www.perplexity.ai/): Daily driver for research, coding help, and AI browsing.  
-- [Visual Studio Code](https://code.visualstudio.com/): Main IDE for Python, data, and cloud development.  
-- [GitHub Copilot](https://github.com/features/copilot): Coding assistant for faster experimentation.  
-- [Weights & Biases](https://wandb.ai/): Experiment tracking and model monitoring.  
-- [Notion](https://www.notion.so/): Documentation, architecture notes, and project planning.  
+<a href="https://www.perplexity.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Perplexity" /></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
+<a href="https://github.com/features/copilot" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub Copilot" /></a>
+<a href="https://wandb.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="Weights & Biases" /></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" /></a>
 
 ---
 
