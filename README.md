@@ -47,7 +47,7 @@ Visit My Portfolio....   <a href="https://rzletscode.github.io/portfolio-main/" 
 <a href="https://www.crewai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=crewai" width="40" height="40" alt="CrewAI" /></a>
 <a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pinecone" width="40" height="40" alt="Pinecone" /></a> -->
 
-<p align="left">
+ <p align="left">
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" />
   </a>
@@ -65,11 +65,11 @@ Visit My Portfolio....   <a href="https://rzletscode.github.io/portfolio-main/" 
   </a>
   &nbsp;
   <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://cdn.simpleicons.org/pinecone/000000/FFFFFF" width="40" height="40" alt="Pinecone" />
+    <img src="https://cdn.simpleicons.org/pinecone" width="40" height="40" alt="Pinecone" />
   </a>
   &nbsp;
   <a href="https://openai.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openai/000000/FFFFFF" width="40" height="40" alt="OpenAI" />
+    <img src="https://cdn.simpleicons.org/openai" width="40" height="40" alt="OpenAI" />
   </a>
   &nbsp;
   <a href="https://huggingface.co/" target="_blank">
