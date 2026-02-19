@@ -23,31 +23,15 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 ## 🤝 Let's Connect
 
-<!-- <a href="https://x.com/Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" /></a>
+<a href="https://x.com/Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" /></a>
 <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
 <a href="https://www.youtube.com/@Code2Career_AI" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YouTube" /></a>
 <a href="https://rzletscode.github.io/portfolio-main/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>
 
 
-  </a> -->
+  </a> 
 
-  <p align="left">
-  <a href="https://x.com/Code2caree86706" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Portfolio" height="40" width="40" />
-  </a>
-</p>
+ 
 </p>
 
 
