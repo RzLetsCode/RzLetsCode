@@ -23,20 +23,23 @@ Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI*
 
 ### Connect With Me
 
-<p align="left">
-  <a href="https://x.com/Code2Career_AI" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF/000000" alt="X" height="32" />
+<div align="left" style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://x.com/Code2Career_AI" target="_blank" rel="noopener noreferrer" title="Follow Code2Career_AI on X">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF/000000" alt="X Profile" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/FFFFFF" alt="LinkedIn" height="32" />
+
+  <a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank" rel="noopener noreferrer" title="Connect with Rajesh Kumar on LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2/FFFFFF" alt="LinkedIn Profile" height="32" />
   </a>
-  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000/FFFFFF" alt="YouTube" height="32" />
+
+  <a href="https://www.youtube.com/@Code2Career_AI" target="_blank" rel="noopener noreferrer" title="Subscribe to Code2Career_AI on YouTube">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000/FFFFFF" alt="YouTube Channel" height="32" />
   </a>
-  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank">
-    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139/FFFFFF" alt="Website" height="32" />
+
+  <a href="https://rzletscode.github.io/portfolio-main/" target="_blank" rel="noopener noreferrer" title="Visit My Portfolio">
+    <img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139/FFFFFF" alt="Personal Portfolio" height="32" />
   </a>
-</p>
+</div>
 
 
 ### My Favorite AI Systems
