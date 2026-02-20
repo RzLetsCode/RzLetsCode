@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rajesh  
+# Hi 👋, Welcome to code2career_ai  
 
 AI Architect  
 Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
