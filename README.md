@@ -8,7 +8,7 @@ Visit My Website....   <a href="https://rzletscode.github.io/code2career_ai" tar
 [![Profile views](https://komarev.com/ghpvc/?username=RzLetsCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
 
 🚀 Free AI & Career Content: [Code2CareerAI](https://code2careerai.hashnode.dev/page/free-resources)  
-👨‍💻 More about me on: [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
+👨‍💻 More about me on: [LinkedIn](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)  
 📺 Deep-dive tutorials on my: [YouTube channel](https://www.youtube.com/@Code2Career_AI)
 
 ---
