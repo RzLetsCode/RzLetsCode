@@ -1,99 +1,75 @@
-# Hi 👋, Welcome to code2career_ai  
+# Hi 👋 Welcome to Code2Career_AI
 
-AI Architect  
-Helping enterprises build **production-ready Generative AI, RAG, and Agentic AI** systems.
+## Learn AI That Ships to Production
 
-Visit My Website....   <a href="https://rzletscode.github.io/code2career_ai" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Portfolio" /></a>
+Code2Career_AI is a learning platform for engineers, architects, and career switchers who want to build real-world skills in **Generative AI, RAG, Agentic AI, MCP, and production-ready AI systems**.
 
-[![Profile views](https://komarev.com/ghpvc/?username=RzLetsCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
+We help you move from **code to career** through practical tutorials, architecture breakdowns, guided projects, and mentorship-driven content.
 
-🚀 Free AI & Career Content: [Code2CareerAI](https://code2careerai.hashnode.dev/page/free-resources)  
-👨‍💻 More about me on: [LinkedIn](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)  
-📺 Deep-dive tutorials on my: [YouTube channel](https://www.youtube.com/@Code2Career_AI)
-
----
-
-### Blog posts
-
-- [Designing an Enterprise RAG Architecture on Snowflake](https://code2careerai.hashnode.dev/architecting-enterprise-rag-on-snowflake-a-technical-deep-dive?showSharer=true)  
-- [Building Agentic Workflows with LangGraph and Azure OpenAI](https://code2careerai.hashnode.dev/from-chains-to-brains-building-agentic-workflows-with-langgraph-and-azure-openai?showSharer=true)  
-- [Productionizing LLM Apps: Observability, Guardrails, and MLOps](https://code2careerai.hashnode.dev/productionizing-llm-apps-a-comprehensive-guide-to-observability-guardrails-and-llmops?showSharer=true)  
-- [From Data Pipelines to GenAI Platforms: A Practical Guide](https://code2careerai.hashnode.dev/from-data-pipelines-to-genai-platforms-a-practical-guide-to-the-evolution?showSharer=true)  
-- [MCP in Action: Connecting LLMs Safely to Enterprise Systems](https://code2careerai.hashnode.dev/the-missing-link-how-the-model-context-protocol-mcp-safely-bridges-llms-and-enterprise-data)  
+🌐 **Website:** [code2career_ai](https://rzletscode.github.io/code2career_ai)  
+🚀 **Free AI Resources:** [Code2CareerAI Resources](https://code2careerai.hashnode.dev/page/free-resources)  
+📝 **Blog:** [Hashnode](https://code2careerai.hashnode.dev/)  
+📺 **YouTube:** [Code2Career_AI](https://www.youtube.com/@Code2Career_AI)  
+💼 **LinkedIn:** [Rajesh Kumar](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
 
 ---
 
-## 🤝 Let's Connect
+## What Code2Career_AI Helps You Learn
 
-<a href="https://x.com/Code2Career_AI" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40" height="40" alt="X (Twitter)" /></a>
-<a href="https://www.linkedin.com/in/rajesh-kumar-04405962/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /></a>
-<a href="https://www.youtube.com/@Code2Career_AI" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" width="40" height="40" alt="YouTube" /></a>
-
-
-
-  </a> 
-
- 
-</p>
-
-
-## 🤖 AI Tech Stack
-
-<!-- <a href="https://www.langchain.com/langgraph" target="_blank"><img src="https://skillicons.dev/icons?i=langgraph" width="40" height="40" alt="LangGraph" /></a>
- 
-<a href="https://www.langchain.com/langsmith" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="LangSmith" /></a>
-<a href="https://www.langchain.com/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="LangChain" /></a>
-<a href="https://www.llamaindex.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="LlamaIndex" /></a>
-<a href="https://www.crewai.com/" target="_blank"><img src="https://skillicons.dev/icons?i=crewai" width="40" height="40" alt="CrewAI" /></a>
-<a href="https://www.pinecone.io/" target="_blank"><img src="https://skillicons.dev/icons?i=pinecone" width="40" height="40" alt="Pinecone" /></a> -->
-
-  <p align="left">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" />
-  </a>
-  &nbsp;
-  <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangSmith" />
-  </a>
-  &nbsp;
-  <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=llamaindex&logoColor=white" height="40" alt="LlamaIndex" />
-  </a>
-  &nbsp;
-  <a href="https://www.crewai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CrewAI-FF4F00?style=flat&logo=robot&logoColor=white" height="40" alt="CrewAI" />
-  </a>
-  &nbsp;
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" height="40" alt="Pinecone" />
-  </a>
-  &nbsp;
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="40" alt="OpenAI" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" />
-  </a>
-</p>
- 
+- Fundamentals of AI, ML, and data engineering
+- Production-ready Generative AI application design
+- Enterprise RAG architecture and retrieval strategies
+- Agentic AI workflows with tools like LangGraph and CrewAI
+- MCP and secure enterprise AI integrations
+- LLM observability, guardrails, evaluation, and AI platform thinking
+- Portfolio projects, career growth, and technical branding
 
 ---
 
-## 🛠️ Dev Toolkit
+## Who This Is For
 
-<a href="https://www.perplexity.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Perplexity" /></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /></a>
-<a href="https://github.com/features/copilot" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub Copilot" /></a>
-<a href="https://wandb.ai/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="Weights & Biases" /></a>
-<a href="https://www.notion.so/" target="_blank"><img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" /></a>
+- Engineers moving into AI and GenAI
+- Data professionals upgrading to LLM and agentic systems
+- Solution architects building enterprise AI platforms
+- Career switchers looking for guided project-based learning
+- Developers who want to turn side learning into real opportunities
 
 ---
 
-### A bit more about me
+## Featured Content
 
-- 🧠 12+ years across AI, ML, and data engineering, from classic predictive models to modern GenAI platforms.  
-- 🏥 Deep experience in healthcare and insurance data, risk modeling, and AI workflows.  
-- 🎯 Passionate about mentoring, content creation, and helping engineers move from **code to career**.  
+- [Designing an Enterprise RAG Architecture on Snowflake](https://code2careerai.hashnode.dev/architecting-enterprise-rag-on-snowflake-a-technical-deep-dive?showSharer=true)
+- [Building Agentic Workflows with LangGraph and Azure OpenAI](https://code2careerai.hashnode.dev/from-chains-to-brains-building-agentic-workflows-with-langgraph-and-azure-openai?showSharer=true)
+- [Productionizing LLM Apps: Observability, Guardrails, and MLOps](https://code2careerai.hashnode.dev/productionizing-llm-apps-a-comprehensive-guide-to-observability-guardrails-and-llmops?showSharer=true)
+- [From Data Pipelines to GenAI Platforms](https://code2careerai.hashnode.dev/from-data-pipelines-to-genai-platforms-a-practical-guide-to-the-evolution?showSharer=true)
+- [MCP in Action](https://code2careerai.hashnode.dev/the-missing-link-how-the-model-context-protocol-mcp-safely-bridges-llms-and-enterprise-data)
 
-If you’re working on something in **GenAI, RAG, MCP, or multi-agent systems**, feel free to reach out and say hi!
+---
+
+## Platform Roadmap
+
+Code2Career_AI is evolving into an online learning platform focused on:
+
+- Structured AI learning paths
+- Hands-on labs and project-based learning
+- Career transition guidance
+- Architecture-first GenAI education
+- Community-led mentoring and deep-dive sessions
+
+---
+
+## Tech Ecosystem
+
+**AI/LLM:** LangChain, LangGraph, LangSmith, LlamaIndex, OpenAI, Hugging Face  
+**Vector/Data:** Pinecone, Snowflake  
+**Build & Dev:** VS Code, GitHub, Weights & Biases, Notion  
+
+---
+
+## Let’s Build and Learn Together
+
+If you're working on **GenAI, RAG, MCP, LLMOps, or multi-agent systems**, let’s connect and grow together.
+
+- [X / Twitter](https://x.com/Code2Career_AI)
+- [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-04405962/)
+- [YouTube](https://www.youtube.com/@Code2Career_AI)
