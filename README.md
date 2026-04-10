@@ -10,7 +10,7 @@ We help you move from **code to career** through practical tutorials, architectu
 🚀 **Free AI Resources:** [Code2CareerAI Resources](https://code2careerai.hashnode.dev/page/free-resources)  
 📝 **Blog:** [Hashnode](https://code2careerai.hashnode.dev/)  
 📺 **YouTube:** [Code2Career_AI](https://www.youtube.com/@Code2Career_AI)  
-💼 **LinkedIn:** [Rajesh Kumar](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
+💼 **LinkedIn:** [Code2career_AI](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)  
 
 ---
 
@@ -61,14 +61,7 @@ Code2Career_AI is evolving into a full **online learning platform** focused on:
 ## 🤖 AI & GenAI Stack  
 
 <p align="left">
-  <a href="https://www.langchain.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain" />
-  </a>
-  &nbsp;
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangGraph" />
-  </a>
-  &nbsp;
+ 
   <a href="https://www.langchain.com/langsmith" target="_blank">
     <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangSmith" />
   </a>
