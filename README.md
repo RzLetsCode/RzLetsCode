@@ -6,7 +6,7 @@ Code2Career_AI is a learning platform for engineers, architects, and career swit
 
 We help you move from **code to career** through practical tutorials, architecture breakdowns, guided projects, and mentorship-driven content.  
 
-🌐 **Website:** [code2career_ai](https://rzletscode.github.io/code2career_ai)  
+🌐 **Website:** [code2career_ai](https://rzletscode.github.io/portfolio/#projects)  
 🚀 **Free AI Resources:** [Code2CareerAI Resources](https://code2careerai.hashnode.dev/page/free-resources)  
 📝 **Blog:** [Hashnode](https://code2careerai.hashnode.dev/)  
 📺 **YouTube:** [Code2Career_AI](https://www.youtube.com/@Code2Career_AI)  
