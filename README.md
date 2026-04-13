@@ -1,5 +1,7 @@
 # Hi 👋 Welcome to Code2Career_AI  
 
+![Visitors](https://komarev.com/ghpvc/?username=rzletscode&label=Visitors&color=0e75b6&style=flat)
+
 ## Learn AI That Ships to Production  
 
 Code2Career_AI is a learning platform for engineers, architects, and career switchers who want to build **real-world skills** in Generative AI, RAG, Agentic AI, MCP, and production-ready AI systems.  
