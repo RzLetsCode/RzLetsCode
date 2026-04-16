@@ -121,9 +121,9 @@ We help you move from **code to career** through practical tutorials, architectu
 If you're working on **GenAI, RAG, MCP, LLMOps, or multi-agent systems**, or you're planning your **AI career path**, feel free to reach out:
 
 - 🧵 [X / Twitter – @Code2Career_AI](https://x.com/Code2Career_AI)
-- 💼 [LinkedIn – Rajesh Kumar](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)
+- 💼 [LinkedIn – code2career_ai](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)
 - 📺 [YouTube – Code2Career_AI](https://www.youtube.com/@Code2Career_AI)
-- 📧 [Email – personalmymail09@gmail.com](mailto:code2careerai@gmail.com)
+- 📧 [Email – code2careerai@gmail.com](mailto:code2careerai@gmail.com)
 
 ---
 
