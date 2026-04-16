@@ -50,6 +50,7 @@ We help you move from **code to career** through practical tutorials, architectu
 | [🧠 AI Learning Coach](https://github.com/RzLetsCode/personalized-learning-coach-memory-agent) | Multi-layer memory system for adaptive learning sessions | LangChain, LangGraph, Azure OpenAI |
 | [📋 Insurance Claim Assistant](https://github.com/RzLetsCode/insurance-claim-assistant) | Production RAG pipeline for automated claim processing | Python, RAG, Azure OpenAI |
 | [💼 Candidate Ranking System](https://github.com/RzLetsCode/candidate-ranking-assistant-dynamic) | AI-powered candidate evaluation with semantic search | Python, LLMs, Vector DB |
+| GNews MCP Server | Python, MCP, GNews API, Streamlit | MCP server that exposes GNews news search and top-headlines tools for AI agents, plus a local Streamlit demo client. | [gnews-mcp-server](https://github.com/RzLetsCode/gnews-mcp-server) |
 
 ### 📚 Learning Resources
 
