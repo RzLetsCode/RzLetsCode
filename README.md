@@ -1,126 +1,136 @@
-# Hi 👋 Welcome to Code2Career_AI  
+<div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=rzletscode&label=Visitors&color=0e75b6&style=flat)
+# Hi 👋 Welcome to Code2Career_AI
 
-## Learn AI That Ships to Production  
+### Enterprise AI Architect & Mentor | Building Production-Ready AI Systems
 
-Code2Career_AI is a learning platform for engineers, architects, and career switchers who want to build **real-world skills** in Generative AI, RAG, Agentic AI, MCP, and production-ready AI systems.  
+[![Visitors](https://komarev.com/ghpvc/?username=rzletscode&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/RzLetsCode)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code2Career_AI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/code2career-ai/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://code2careerai.hashnode.dev/)
 
-We help you move from **code to career** through practical tutorials, architecture breakdowns, guided projects, and mentorship-driven content.  
+</div>
 
+---
+
+## 🚀 Learn AI That Ships to Production
+
+Code2Career_AI is a learning platform for engineers, architects, and career switchers who want to build **real-world skills** in Generative AI, RAG, Agentic AI, MCP, and production-ready AI systems.
+
+We help you move from **code to career** through practical tutorials, architecture breakdowns, guided projects, and mentorship-driven content.
+
+### 🔗 Quick Links
 🌐 **Website:** [code2career_ai](https://rzletscode.github.io/portfolio/#projects)  
 🚀 **Free AI Resources:** [Code2CareerAI Resources](https://code2careerai.hashnode.dev/page/free-resources)  
 📝 **Blog:** [Hashnode](https://code2careerai.hashnode.dev/)  
 📺 **YouTube:** [Code2Career_AI](https://www.youtube.com/@Code2Career_AI)  
-💼 **LinkedIn:** [Code2career_AI](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)  
+💼 **LinkedIn:** [Code2career_AI](https://www.linkedin.com/company/code2career-ai/?viewAsMember=true)
 
 ---
 
-## 🎯 What You’ll Learn with Code2Career_AI  
+## 🎯 What You'll Learn with Code2Career_AI
 
-- Fundamentals of AI, ML, and data engineering for modern data platforms  
-- Designing **production-ready GenAI** applications and LLM-powered services  
-- Enterprise RAG architectures (Snowflake, vector stores, hybrid search)  
-- Agentic AI workflows using **LangGraph, LangChain, CrewAI, LlamaIndex**  
-- MCP and **secure enterprise integrations** with existing data & APIs  
-- LLM **observability, guardrails, evaluation, and LLMOps** patterns  
-- Portfolio projects, tech branding, and career strategy for AI roles  
-
----
-
-## 👥 Who This Platform Serves  
-
-- Engineers breaking into **AI and GenAI** from software or data backgrounds  
-- Data professionals moving from classic ML to **LLM & agentic systems**  
-- Solution/AI architects building **enterprise AI & RAG platforms**  
-- Career switchers who want **guided, project-based learning**  
-- Developers who want to turn side learning into **real opportunities**  
+- ✅ Fundamentals of AI, ML, and data engineering for modern data platforms
+- ✅ Designing **production-ready GenAI** applications and LLM-powered services
+- ✅ Enterprise RAG architectures (Snowflake, vector stores, hybrid search)
+- ✅ Agentic AI workflows using **LangGraph, LangChain, CrewAI, LlamaIndex**
+- ✅ MCP and **secure enterprise integrations** with existing data & APIs
+- ✅ LLM **observability, guardrails, evaluation, and LLMOps** patterns
+- ✅ Portfolio projects, tech branding, and career strategy for AI roles
 
 ---
 
-## ✍️ Featured Deep-Dive Content  
+## 🌟 Featured Projects
 
-- [Designing an Enterprise RAG Architecture on Snowflake](https://code2careerai.hashnode.dev/architecting-enterprise-rag-on-snowflake-a-technical-deep-dive?showSharer=true)  
-- [Building Agentic Workflows with LangGraph and Azure OpenAI](https://code2careerai.hashnode.dev/from-chains-to-brains-building-agentic-workflows-with-langgraph-and-azure-openai?showSharer=true)  
-- [Productionizing LLM Apps: Observability, Guardrails, and MLOps](https://code2careerai.hashnode.dev/productionizing-llm-apps-a-comprehensive-guide-to-observability-guardrails-and-llmops?showSharer=true)  
-- [From Data Pipelines to GenAI Platforms](https://code2careerai.hashnode.dev/from-data-pipelines-to-genai-platforms-a-practical-guide-to-the-evolution?showSharer=true)  
-- [MCP in Action: Connecting LLMs Safely to Enterprise Systems](https://code2careerai.hashnode.dev/the-missing-link-how-the-model-context-protocol-mcp-safely-bridges-llms-and-enterprise-data)  
+### 🤖 AI & GenAI Systems
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [💼 Portfolio Website](https://github.com/RzLetsCode/portfolio) | Professional portfolio with interactive FAQ chatbot | Next.js, TypeScript, Tailwind CSS |
+| [🧠 AI Learning Coach](https://github.com/RzLetsCode/personalized-learning-coach-memory-agent) | Multi-layer memory system for adaptive learning sessions | LangChain, LangGraph, Azure OpenAI |
+| [📋 Insurance Claim Assistant](https://github.com/RzLetsCode/insurance-claim-assistant) | Production RAG pipeline for automated claim processing | Python, RAG, Azure OpenAI |
+| [💼 Candidate Ranking System](https://github.com/RzLetsCode/candidate-ranking-assistant-dynamic) | AI-powered candidate evaluation with semantic search | Python, LLMs, Vector DB |
 
-## 🚧 Platform Roadmap  
+### 📚 Learning Resources
 
-Code2Career_AI is evolving into a full **online learning platform** focused on:  
-
-- Structured AI learning paths (Foundations → RAG → Agentic → Platforms)  
-- Hands-on labs and **end-to-end, repo-backed projects**  
-- Career transition guidance and **“code to career” playbooks**  
-- Architecture-first GenAI education for real-world systems  
-- Community-led mentoring, deep-dive sessions, and live breakdowns  
+- **[Code2CareerAI Blog](https://code2careerai.hashnode.dev/)** - Deep-dive technical articles on RAG, LLMOps, Agentic AI
+- **[YouTube Channel](https://www.youtube.com/@Code2Career_AI)** - Video tutorials on production AI systems
+- **[Free Resources](https://code2careerai.hashnode.dev/page/free-resources)** - Curated learning materials for AI engineers
 
 ---
 
-## 🤖 AI & GenAI Stack  
+## 🛠️ Tech Stack
 
-<p align="left">
- 
-  <a href="https://www.langchain.com/langsmith" target="_blank">
-    <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangSmith" />
-  </a>
-  &nbsp;
-  <a href="https://www.llamaindex.ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LlamaIndex-121212?style=flat&logo=llamaindex&logoColor=white" height="40" alt="LlamaIndex" />
-  </a>
-  &nbsp;
-  <a href="https://www.crewai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/CrewAI-FF4F00?style=flat&logo=robot&logoColor=white" height="40" alt="CrewAI" />
-  </a>
-  &nbsp;
-  <a href="https://www.pinecone.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white" height="40" alt="Pinecone" />
-  </a>
-  &nbsp;
-  <a href="https://openai.com/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" height="40" alt="OpenAI" />
-  </a>
-  &nbsp;
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="Hugging Face" />
-  </a>
-</p>
+### AI & GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure_AI-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+
+### Data & Cloud
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Development
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🛠 Dev & Productivity Toolkit  
+## 🔭 Currently Working On
 
-<p align="left">
-  <a href="https://www.perplexity.ai/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ai" width="40" height="40" alt="Perplexity" />
-  </a>
-  &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/features/copilot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub / Copilot" />
-  </a>
-  &nbsp;
-  <a href="https://wandb.ai/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="Weights & Biases" />
-  </a>
-  &nbsp;
-  <a href="https://www.notion.so/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion" />
-  </a>
-</p>
+- 📦 Building production-grade RAG systems with Snowflake + Azure OpenAI
+- 🤖 Creating multi-agent workflows using LangGraph and CrewAI
+- 📚 Developing comprehensive LLMOps guides for enterprise applications
+- 🎓 Growing Code2Career_AI into a full learning platform
+- ✍️ Writing technical deep-dives on Hashnode about GenAI architecture
 
 ---
 
-## 🤝 Let’s Build and Learn Together  
+## 📊 GitHub Stats
 
-If you're working on **GenAI, RAG, MCP, LLMOps, or multi-agent systems**, or you’re planning your **AI career path**, feel free to reach out and say hi:  
+<div align="center">
 
-- 🧵 [X / Twitter – @Code2Career_AI](https://x.com/Code2Career_AI)  
-- 💼 [LinkedIn – Rajesh Kumar](https://www.linkedin.com/in/rajesh-kumar-04405962/)  
-- 📺 [YouTube – Code2Career_AI](https://www.youtube.com/@Code2Career_AI)  
+<img src="https://github-readme-stats.vercel.app/api?username=rzletscode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rzletscode&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzletscode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+
+</div>
+
+---
+
+## 🏆 Achievements & Recognition
+
+- 🎓 **12+ years** of production AI & data engineering experience
+- 📊 **50+ enterprise AI systems** deployed at scale
+- 📺 Growing **YouTube community** focused on practical, production-ready AI
+- 📝 **Technical writer** on Hashnode covering GenAI architecture & LLMOps
+- 💼 **Mentoring engineers** transitioning to AI careers
+- 🚀 Building AI systems processing **1M+ daily records** with 99.9% SLA
+
+---
+
+## 🤝 Let's Build and Learn Together
+
+If you're working on **GenAI, RAG, MCP, LLMOps, or multi-agent systems**, or you're planning your **AI career path**, feel free to reach out:
+
+- 🧵 [X / Twitter – @Code2Career_AI](https://x.com/Code2Career_AI)
+- 💼 [LinkedIn – Rajesh Kumar](https://www.linkedin.com/in/rajesh-kumar-04405962/)
+- 📺 [YouTube – Code2Career_AI](https://www.youtube.com/@Code2Career_AI)
+- 📧 [Email – personalmymail09@gmail.com](mailto:personalmymail09@gmail.com)
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work helpful, consider giving a star to my repositories!
+
+**Where boundaries break, breakthroughs happen.**
+
+</div>
