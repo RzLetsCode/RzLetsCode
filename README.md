@@ -1,148 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=Code2Career_AI&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Enterprise%20AI%20Architect%20and%20Mentor&descSize=16&descAlignY=78&descColor=a0aec0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Code2Career_AI&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Learn%20AI.%20Build%20Real%20Projects.%20Get%20Career-Ready.&descSize=18&descAlignY=65&descColor=a0aec0" width="100%" />
 
-</div>
+### 🏗️ Designed by an AI Architect for the Next Generation of Builders
+**Built for Students • Freshers • Career Switchers**
+*Roadmaps • Portfolio Projects • Career Strategy*
 
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=rzletscode&label=Profile%20Views&color=6366f1&style=flat-square)](https://github.com/RzLetsCode)
-
-</div>
-
-<div align="center">
-
-**Building production-grade AI systems · Mentoring engineers into AI careers · Writing about GenAI architecture**
-
-[![YouTube](https://img.shields.io/badge/YouTube-Code2Career__AI-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Code2Career_AI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-code2career__ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/code2career-ai/)
-[![Hashnode](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://code2careerai.hashnode.dev/)
-[![X](https://img.shields.io/badge/X-@Code2Career__AI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Code2Career_AI)
-[![Email](https://img.shields.io/badge/Email-code2careerai@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:code2careerai@gmail.com)
+[![](https://img.shields.io/badge/YouTube-Code2Career__AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Code2Career_AI) [![](https://img.shields.io/badge/LinkedIn-code2career__ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/code2career-ai/) [![](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://code2careerai.hashnode.dev/) [![](https://img.shields.io/badge/X-@Code2Career__AI-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Code2Career_AI) [![](https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:code2careerai@gmail.com)
 
 </div>
 
 ---
 
-## About
+## 🚀 Welcome to Code2Career_AI
+Tired of random AI tutorials? This platform is designed to move you through a clear flow: understand the path, learn with systems, build meaningful projects, and tell the right story. We focus on **architecture-first thinking**—the skill that actually gets you hired.
 
-Code2Career_AI is a technical learning platform for engineers and career switchers building serious skills in **Generative AI, RAG, Agentic AI, and LLMOps**.
-
-The focus here is not on tutorials. It is on **production-grade systems** — architecture-first thinking, evaluation frameworks, deployment patterns, and the kind of engineering judgment that gets you hired as an AI Architect.
-
-> *Where boundaries break, breakthroughs happen.*
-
----
-
-## What You Will Learn
-
-| Area | Topics Covered |
-|------|----------------|
-| **Foundations** | AI, ML, data engineering for modern platforms |
-| **GenAI Systems** | Production RAG, LLM APIs, hybrid search, vector stores |
-| **Agentic AI** | LangGraph, CrewAI, LlamaIndex, multi-agent orchestration |
-| **LLMOps** | Observability, guardrails, evaluation, cost optimization |
-| **Enterprise Integration** | MCP, Azure OpenAI, Snowflake, secure API patterns |
-| **Career Strategy** | Portfolio design, tech branding, AI role preparation |
+### 🎯 Who is this for?
+- **Students & Freshers:** Start from scratch with a clear sequence. No more chaos.
+- **Career Switchers:** A realistic plan to pivot into AI by leveraging your existing background.
+- **Job Seekers:** Build proof-of-work that recruiters and engineering managers actually value.
 
 ---
 
-## Featured Projects
+## 🗺️ The 6-Step AI Journey
+*From confusion to a career-ready narrative.*
 
-#### AI & GenAI Systems
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Portfolio Website](https://github.com/RzLetsCode/portfolio) | Professional portfolio with interactive AI chatbot | Next.js · TypeScript · Tailwind |
-| [AI Learning Coach](https://github.com/RzLetsCode/personalized-learning-coach-memory-agent) | Multi-layer memory system for adaptive learning sessions | LangChain · LangGraph · Azure OpenAI |
-| [Insurance Claim Assistant](https://github.com/RzLetsCode/insurance-claim-assistant) | Production RAG pipeline for automated claim processing | Python · RAG · Azure OpenAI |
-| [Candidate Ranking System](https://github.com/RzLetsCode/candidate-ranking-assistant-dynamic) | AI-powered candidate evaluation with semantic search | Python · LLMs · Vector DB |
-| [GNews MCP Server](https://github.com/RzLetsCode/gnews-mcp-server) | MCP server exposing news search tools for AI agents | Python · MCP · GNews API · Streamlit |
+1.  **Understand the Path** — See what to learn first, what can wait, and how AI pieces connect.
+2.  **Learn with Real Systems** — Study simplified versions of production-style AI systems.
+3.  **Build Meaningful Projects** — Create work you can put on GitHub and talk about in interviews.
+4.  **Choose Tools with Purpose** — Build a focused, practical stack instead of chasing every hype.
+5.  **Tell the Right Story** — Master the resume and interview narrative for your AI transition.
+6.  **Improve through Feedback** — Refine your projects and profile with honest, targeted direction.
 
 ---
 
-## Tech Stack
+## 🛠️ Project Ecosystem
+*Learn by building what counts.*
 
-#### AI & GenAI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Azure AI](https://img.shields.io/badge/Azure_AI-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-
-#### Data & Cloud
-
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-#### Development
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| Level | Project | What You Learn | Career Value |
+| :--- | :--- | :--- | :--- |
+| **Beginner** | [Personal Learning Agent](https://github.com/RzLetsCode/personalized-learning-coach-memory-agent) | RAG Flow, Prompt Design, UI Thinking | First serious AI portfolio point |
+| **Resumé Focus** | [AI Resume Matcher](https://github.com/RzLetsCode/candidate-ranking-assistant-dynamic) | Text Matching, Scoring, ML Logic | Shows problem-solving for hiring |
+| **Portfolio Polish** | [Insurance Claim Assistant](https://github.com/RzLetsCode/insurance-claim-assistant) | Production RAG, Azure OpenAI, LLMOps | Production-grade proof of work |
+| **Infrastructure** | [GNews MCP Server](https://github.com/RzLetsCode/gnews-mcp-server) | MCP, Python, API Integration | Modern AI agent infrastructure |
 
 ---
 
-## Currently Building
-
-- Production-grade RAG systems with Snowflake and Azure OpenAI
-- Multi-agent workflows using LangGraph and CrewAI
-- Comprehensive LLMOps guides for enterprise applications
-- Growing Code2Career_AI into a full learning platform
-- Technical deep-dives on GenAI architecture for Hashnode
+## 🧠 Tech Stack
+- **AI & GenAI:** Python • LangChain • LangGraph • OpenAI • Azure AI • Pinecone
+- **Data & Cloud:** Snowflake • Databricks • Azure • Docker
+- **Development:** Next.js • TypeScript • VS Code • GitHub
 
 ---
 
-## GitHub Stats
+## 🤝 Mentorship & Strategy
+*For when you need more than just content.*
 
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=rzletscode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=a0aec0" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzletscode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=a0aec0" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rzletscode&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" />
-
-</div>
-
----
-
-## Recognition
-
-- **12+ years** of production AI and data engineering experience
-- **50+ enterprise AI systems** deployed at scale
-- Building AI systems processing **1M+ daily records** with 99.9% SLA
-- Technical writer on Hashnode covering GenAI architecture and LLMOps
-- Mentoring engineers transitioning into AI architect roles
-- Growing YouTube community focused on practical, production-ready AI
-
----
-
-## Resources
-
-- [Hashnode Blog](https://code2careerai.hashnode.dev/) — Deep-dive articles on RAG, LLMOps, Agentic AI
-- [Free AI Resources](https://code2careerai.hashnode.dev/page/free-resources) — Curated materials for AI engineers
-- [YouTube Channel](https://www.youtube.com/@Code2Career_AI) — Video tutorials on production AI systems
-- [Portfolio](https://rzletscode.github.io/portfolio/#projects) — Project showcase
+- **Career Pivot Audit:** Review your background and find your best entry point into AI.
+- **AI-Optimized Narrative:** Shape your resumé and LinkedIn story to stand out.
+- **Production Code Review:** Upgrade your architecture, docs, and code structure.
 
 ---
 
 <div align="center">
 
-*If you find this work useful, a star on any repository goes a long way.*
+### Ready to start your AI journey?
+[See the Journey](https://github.com/RzLetsCode/RzLetsCode/blob/main/README.md#%EF%B8%8F-the-6-step-ai-journey) • [View Projects](https://github.com/RzLetsCode/RzLetsCode/blob/main/README.md#%EF%B8%8F-project-ecosystem) • [Talk to Code2Career_AI](mailto:code2careerai@gmail.com)
 
-**Let's connect — working on GenAI, RAG, LLMOps, or planning your AI career path?**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/code2career-ai/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:code2careerai@gmail.com)
+*If you find this work useful, a ⭐ goes a long way!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" width="100%" />
 
