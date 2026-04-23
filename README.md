@@ -46,7 +46,7 @@ Most platforms teach you how to call an API. **Companies hire you to build syste
 
 ---
 
-## 🛠️ The Project Curriculum publically available
+## 🛠️ The Projects publically available
 *Engineering problems solved through code. This curriculum moves learners from basic API interactions to autonomous, enterprise-grade deployments.*
 
 | Phase | Project Identity | The Engineering Challenge | Tech Stack |
